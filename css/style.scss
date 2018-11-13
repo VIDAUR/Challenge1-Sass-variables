@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+display: flex;
+justify-content: center;
+}
+
+p {
+  align: center;
+  color: green;
+  font-size: 40px;
+}
